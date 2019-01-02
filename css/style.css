@@ -109,7 +109,7 @@ nav a{
 
 nav a:hover{
     text-decoration: none;
-    color: red;
+    color: #8FCAA8;
 }
 
 nav ul{
@@ -122,16 +122,16 @@ nav ul{
 }
 
 .active{
-    color: #f783ae;
+    color: #93E2B5;
 }
 
 #logo-img{
     display: flex;
     height: 100%;
-    background: white;
+    background: #F2FBF6;
     padding: 0 32px;
     align-items: center;
-    color: white;
+    color: #F2FBF6;
     transition: .4s;
 }
 
