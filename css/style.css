@@ -52,7 +52,7 @@ textarea:focus{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: rgba(0, 0, 0, 0.2) url('../img/img_5.jpg');
+    background: #8FCAA8 url('../img/img_5.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
