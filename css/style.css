@@ -5,7 +5,7 @@ body {
 
 h1 {
     padding: 8px;
-    background: rgba(255, 0, 0, 8);
+    background: rgba(143, 202, 168, 8);
     border-radius: 8px;
     margin: 0px;
     font-size: 64px;
@@ -52,7 +52,7 @@ textarea:focus{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: #8FCAA8 url('../img/img_5.jpg');
+    background: rgba(0, 0, 0, 0.2) url('../img/img_5.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
