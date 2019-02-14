@@ -49,9 +49,9 @@ textarea:focus{
 #banner{
     height: 400px;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    /*align-items: center;
+    justify-content: center;*/
+    /*flex-direction: column;*/
     background: rgba(0, 0, 0, 0) url('../img/img_5.jpg');
     background-size: cover;
     /*background-attachment: fixed;*/
