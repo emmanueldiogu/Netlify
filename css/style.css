@@ -67,21 +67,6 @@ textarea:focus{
     font-size: 24px;
 }
 
-#colleft {
-    background: rgba(50, 205, 50, 0.5);
-    float: left;
-    height: 100px;
-    width: 200px;
-}
-
-#colright {
-    background: rgba(50, 205, 50, 1);
-    height: 100%;
-    padding: 10px;
-    width: 200px;
-    float: right;
-}
-
 /*Search Box*/
 
 #searchbox{
