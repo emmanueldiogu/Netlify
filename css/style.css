@@ -447,6 +447,7 @@ footer #social-media-footer ul li:hover a .fa-github{
 
     #slideout-menu{
         display: block;
+        z-index:1;
     }
 
     #searchbox {
@@ -524,6 +525,9 @@ footer #social-media-footer ul li:hover a .fa-github{
     #logo-img {
         padding: 0;
     }
+    #logo-img img {
+    width: 98%;
+}
 }
 
 @media(min-width:720px){
